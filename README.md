@@ -1,50 +1,121 @@
-### 👋 Hi, I’m Prahalad (@prahalad17)
+## 👋 Hi, I’m Prahalad (@prahalad17)
 
-💻 **Backend Developer | Aspiring Cybersecurity Professional**  
-I have over **3 years of experience** working with **Java Spring Boot**, building robust and scalable backend applications.  
-Currently exploring and transitioning into the field of **Cybersecurity**.
+💻 **Java Backend Engineer (3.5+ years) | Spring Boot | Cloud & DevOps**  
+Currently expanding into **Angular** and building **end-to-end full-stack applications**.
 
----
-
-### 👀 Interests
-- Cybersecurity (Threat Detection, Pentesting, Network Security)
-- Secure Code Practices
-- DevSecOps & Security Automation
-- CTFs and Security Labs (TryHackMe, Hack The Box)
+I design, build, deploy, and operate backend systems with a strong focus on **clean architecture, security, performance, and production readiness**.
 
 ---
 
-### 💼 Professional Background
-- 🧑‍💻 **Role**: Java Backend Developer  
-- 🛠️ **Tech Stack**: Java, Spring Boot, REST APIs, MySQL, Docker, Git  
-- 🧩 **Experience**: 3+ years building enterprise-level backend services
+## 🧠 What I Do
+
+- Design and develop **Java 17 / Spring Boot microservices**
+- Build **REST APIs** with proper layering, validation, error handling, and documentation
+- Implement **security-first backend systems** (RBAC, OAuth2, least-privilege access)
+- Deploy and operate applications on **AWS** with CI/CD and monitoring
+- Currently learning **Angular** and building full-stack (frontend + backend) projects
 
 ---
 
-### 🌱 Currently Learning
-- Cybersecurity Fundamentals  
-- Ethical Hacking & Penetration Testing  
-- Network Security Tools (Wireshark, Nmap, Burp Suite)  
-- Secure Application Development & OWASP Top 10
+## 🛠️ Tech Stack
+
+### Backend
+- Java 17, Spring Boot, Spring MVC
+- REST APIs, Microservices
+- Spring Data JPA / Hibernate
+- Spring Security (RBAC, OAuth2)
+
+### Frontend (Learning & Building)
+- Angular
+- TypeScript, HTML, CSS
+- REST API integration
+
+### Databases & Caching
+- PostgreSQL, MySQL, MS SQL
+- MongoDB
+- Redis
+- Query optimization, indexing, schema design
+
+### Cloud, DevOps & Ops
+- AWS: EC2, S3, RDS, IAM, CloudWatch
+- Docker, Kubernetes (basics)
+- Jenkins, GitHub Actions
+- Maven, Git, Linux CLI, Bash
+- Nginx, Apache
+
+### Observability
+- Prometheus, Grafana
+- ELK Stack (Elasticsearch, Logstash, Kibana)
 
 ---
 
-### 🤝 Looking to Collaborate On
-- Beginner to intermediate cybersecurity projects  
-- Secure backend systems  
-- Open-source security tools or CTF teams
+## 💼 Professional Experience
+
+**Backend Engineer — Emphatic Sense Technologies**  
+*May 2022 – Oct 2025*
+
+- Built and maintained **production-grade Spring Boot microservices**
+- Designed and optimized REST APIs with DTO mapping, validation, and OpenAPI
+- Implemented **RBAC + OAuth2 security** across services
+- Improved API response times by **~35%** via DB and service-level optimizations
+- Implemented **Redis caching** to reduce DB load
+- Built **Jenkins CI/CD pipelines** and automated deployments
+- Worked on **AWS-based, monitored, auto-healing systems**
 
 ---
 
-### 📫 Reach Me
-📧 Email: [prahaladwork@gmail.com](mailto:prahaladwork@gmail.com)
+## 🚀 Key Highlights
+
+- Delivered multiple backend modules **independently with end-to-end ownership**
+- Designed scalable **security models impacting 100% of users**
+- Reduced deployment time by **~70%** with CI/CD automation
+- Improved system uptime with proactive monitoring & alerting
 
 ---
 
-### 📊 GitHub Stats  
+## 🧩 Featured Projects
+
+### 🛠️ Kage — Life & Habit Tracker (WIP)
+**Spring Boot + Angular**
+
+A full-stack application focused on intent-driven habit tracking and gradual improvement.  
+Currently under active development with clean backend architecture and evolving frontend.
+
+> Backend-first design, clean domain modeling, and future-ready architecture.
+
+(More projects coming soon…)
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- Advanced **Angular** (state management, clean component architecture)
+- End-to-end system design (Frontend ↔ Backend ↔ Cloud)
+- Better observability & production debugging
+- Security best practices in backend systems
+
+---
+
+## 🤝 Open To
+
+- Backend / Full-stack (Java + Angular) opportunities
+- System design & architecture discussions
+- Open-source collaboration (backend-focused)
+
+---
+
+## 📫 Reach Me
+
+- 📧 Email: **prahaladwork@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/prahalad-p
+
+---
+
+## 📊 GitHub Stats
+
 ![Prahalad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prahalad17&show_icons=true&theme=radical)
 
-<!--
-prahalad17/prahalad17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+---
+
+> *“Build systems that are easy to reason about, secure by default,  
+and reliable in production.”*

@@ -111,11 +111,5 @@ Currently under active development with clean backend architecture and evolving 
 
 ---
 
-## 📊 GitHub Stats
-
-![Prahalad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prahalad17&show_icons=true&theme=radical)
-
----
-
 > *“Build systems that are easy to reason about, secure by default,  
 and reliable in production.”*
